@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode Practises
+LeetCode Practice.
